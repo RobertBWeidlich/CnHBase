@@ -1,0 +1,25 @@
+# Puppet
+.librarian/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Python
+*.pyc
+
+# vim backup files
+.swp
+
